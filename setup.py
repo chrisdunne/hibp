@@ -2,8 +2,8 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-    name='cd-hibp',  
-    version='1.0.1',
+    name='chibp',  
+    version='1.0.0',
     author="Christopher Dunne",
     author_email="contact@chrisdunne.net",
     description="A package for utilising the Haveibeenpwned API",
