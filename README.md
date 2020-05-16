@@ -1,5 +1,5 @@
-![PyPI](https://img.shields.io/pypi/v/cd-hibp?style=for-the-badge)
-![PyPI - License](https://img.shields.io/pypi/l/cd-hibp?style=for-the-badge)
+![PyPI](https://img.shields.io/pypi/v/chibp?style=for-the-badge)
+![PyPI - License](https://img.shields.io/pypi/l/chibp?style=for-the-badge)
 
 # chibp
 

@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
     name='chibp',  
-    version='1.0.0',
+    version='1.0.2',
     author="Christopher Dunne",
     author_email="contact@chrisdunne.net",
     description="A package for utilising the Haveibeenpwned API",
