@@ -43,12 +43,12 @@ chibp.get_full(["example@chrisdunne.net", "example2@chrisdunne.net"], API_KEY)
 Example get breaches:
 
 ```
-chibp.get_breaches()
+chibp.get_breaches(API_KEY)
 ```
 Example get breached site:
 
 ```
-chibp.get_breach("MyFitnessPal")
+chibp.get_breach("MyFitnessPal", API_KEY)
 ```
 Example get pastes for email:
 
