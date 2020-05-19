@@ -28,3 +28,30 @@ Example list request:
 ```
 chibp.get(["example@chrisdunne.net", "example2@chrisdunne.net"], API_KEY)
 ```
+
+Example full response:
+
+```
+chibp.get_full("example@chrisdunne.net", API_KEY)
+```
+
+Example list full response:
+
+```
+chibp.get_full(["example@chrisdunne.net", "example2@chrisdunne.net"], API_KEY)
+```
+Example get breaches:
+
+```
+chibp.get_breaches()
+```
+Example get breached site:
+
+```
+chibp.get_breach("MyFitnessPal")
+```
+Example get pastes for email:
+
+```
+chibp.get_pastes("example@chrisdunne.net", API_KEY)
+```
